@@ -7,7 +7,7 @@
 - <b>Air Trafic control simulation using semephors</b>
   - [C++](https://github.com/TylerRWard/Airplane-sim/tree/main)
 - <b>Open CV</b>
-  - [Python](https://github.com/TylerRWard/Airplane-sim/tree/main)
+  - [Python](https://github.com/TylerRWard/Open-CV)
 - <b>Shortest path</b>
   - [Dijkstra algorithm](https://github.com/TylerRWard/Dijkstra-s-algorithm-Shortest-Path)
 
