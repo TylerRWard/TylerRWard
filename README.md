@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Rapsodo automatic download</b>
-  - [python](https://github.com/Lindenwood-Performance-Science/New_Rapsodo_bot/tree/main)
+  - [python](https://github.com/TylerRWard/Rapsodo)
 - <b>Air Trafic control simulation using semephors</b>
   - [C++](https://github.com/TylerRWard/Airplane-sim/tree/main)
 
