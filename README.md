@@ -27,6 +27,6 @@
 
 
 [instagram]: https://www.instagram.com/ty_ward_2/
-[linkedin]: www.linkedin.com/in/tyler-ward-5858962a9
+[linkedin]: https://www.linkedin.com/in/tyler-ward-5858962a9
 
 
