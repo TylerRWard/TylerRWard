@@ -6,6 +6,8 @@
   - [python](https://github.com/TylerRWard/Rapsodo)
 - <b>Air Trafic control simulation using semephors</b>
   - [C++](https://github.com/TylerRWard/Airplane-sim/tree/main)
+- <b>Open CV</b>
+  - [Python](https://github.com/TylerRWard/Airplane-sim/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
