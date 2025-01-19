@@ -8,6 +8,8 @@
   - [C++](https://github.com/TylerRWard/Airplane-sim/tree/main)
 - <b>Open CV</b>
   - [Python](https://github.com/TylerRWard/Airplane-sim/tree/main)
+- <b>Shortest path</b>
+  - [Dijkstra algorithm](https://github.com/TylerRWard/Airplane-sim/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
