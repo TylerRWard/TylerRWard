@@ -11,7 +11,7 @@
 - <b>Shortest path</b>
   - [Dijkstra algorithm](https://github.com/TylerRWard/Dijkstra-s-algorithm-Shortest-Path)
 - <b>trim Videos</b>
-  - [javascript]()
+  - [javascript](https://github.com/TylerRWard/trimVideo)
 
 <h2> 🤳 Connect with me:</h2>
 
