@@ -10,6 +10,8 @@
   - [Python](https://github.com/TylerRWard/Open-CV)
 - <b>Shortest path</b>
   - [Dijkstra algorithm](https://github.com/TylerRWard/Dijkstra-s-algorithm-Shortest-Path)
+- <b>trim Videos</b>
+  - [javascript]()
 
 <h2> 🤳 Connect with me:</h2>
 
