@@ -12,6 +12,8 @@
   - [Dijkstra algorithm](https://github.com/TylerRWard/Dijkstra-s-algorithm-Shortest-Path)
 - <b>trim Videos</b>
   - [javascript](https://github.com/TylerRWard/trimVideo)
+- <b>DFA Project</b>
+  - [DFA](https://github.com/TylerRWard/Computer-Systems-2-project-1)
 
 <h2> 🤳 Connect with me:</h2>
 
