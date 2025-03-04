@@ -14,6 +14,8 @@
   - [javascript](https://github.com/TylerRWard/trimVideo)
 - <b>DFA Project</b>
   - [DFA](https://github.com/TylerRWard/Computer-Systems-2-project-1)
+- <b>Senior Project</b>
+  -[Studio Production Planner]()
 
 <h2> 🤳 Connect with me:</h2>
 
