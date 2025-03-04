@@ -15,7 +15,7 @@
 - <b>DFA Project</b>
   - [DFA](https://github.com/TylerRWard/Computer-Systems-2-project-1)
 - <b>Senior Project</b>
-  -[Studio Production Planner]()
+  -[Studio Production Planner](https://github.com/TylerRWard/Broadcast-Studio-Production-Planner)
 
 <h2> 🤳 Connect with me:</h2>
 
