@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Systems 2 Project 2</b>
-  - [Parcer]([https://github.com/TylerRWard/Rapsodo](https://github.com/TylerRWard/Computer-Systems-2-Project-2))
+  - [Parcer](https://github.com/TylerRWard/Computer-Systems-2-Project-2)
 - <b>Air Trafic control simulation using semephors</b>
   - [C++](https://github.com/TylerRWard/Airplane-sim/tree/main)
 - <b>Senior Project</b>
