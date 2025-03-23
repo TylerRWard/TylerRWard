@@ -14,6 +14,8 @@
   - [javascript](https://github.com/TylerRWard/trimVideo)
 - <b>DFA Project</b>
   - [DFA](https://github.com/TylerRWard/Computer-Systems-2-project-1)
+- Systems 2 Project 2
+  -[Parcer](https://github.com/TylerRWard/Computer-Systems-2-Project-2)
 - <b>Senior Project</b>
   -[Studio Production Planner](https://github.com/TylerRWard/Broadcast-Studio-Production-Planner)
 
